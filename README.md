@@ -6,6 +6,7 @@ Learning **Go (Golang)** step by step through simple programs and practice.
 
 - `Hello World` — Basic Go program
 - `Operators` — Practicing Go operators
+- `if-else` - Practicing If else statement
 
 ## 🚀 Coming Soon
 
